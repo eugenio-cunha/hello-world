@@ -16,4 +16,4 @@ Tudo pode ser feito a partir de comandos de blocos lógicos que devem ser agrupa
 * Monte o algoritmo abaixo
 * Teste o resultado do algoritmo
 
-[scratch] https://github.com/ugenio/hello-world/blob/master/aula-02/scratch.mit.edu.png
+![alt text](https://github.com/ugenio/hello-world/blob/master/aula-02/scratch.mit.edu.png)
